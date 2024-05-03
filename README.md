@@ -1,4 +1,11 @@
-## Home page Skillbox
+### Home page Skillbox    
+
+****
+<img width="1305" alt="Снимок экрана 2024-05-03 в 14 41 08" src="https://github.com/Frontess/Home-page-SkillBox/assets/127450758/79f6c22a-7c00-4772-a20b-712be0c00082">
+
+<img width="1311" alt="Снимок экрана 2024-05-03 в 14 41 38" src="https://github.com/Frontess/Home-page-SkillBox/assets/127450758/9a387810-6a56-4ec3-ae3a-8505f1373207">
+
+<img width="1300" alt="Снимок экрана 2024-05-03 в 14 42 05" src="https://github.com/Frontess/Home-page-SkillBox/assets/127450758/791dbe84-4ddd-4f3b-aa08-8c74117272fa">
 
 :one: Проект состоит из главной страницы сайта с переходами на два раздела:    
 
